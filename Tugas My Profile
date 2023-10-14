@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .start{
+         text-align:center;
+         color:rgb(255, 95, 161);
+         font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+        }
+        .navbar{
+            padding: 100px;
+            color:rgb(255, 101, 153);
+            border-radius: 25px;
+            background-color:rgb(255, 242, 214);
+            margin: 15px;
+        }
+        .foto{
+            width: 200px;
+            margin-right: 50px;
+            border-radius: 15px;
+        }
+        .text1{
+            font-size:20px;
+        }
+        .text2{
+            font-size:15px;
+            color: rgb(248, 0, 95);
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 class="start">Stroberi Club!<3</h1>
+
+    <div class="navbar">
+        <h2 style="text-align: center;">About me</h2>
+        <img class="foto" src="images/FotoAlifiah.jpg" alt="">
+        <h1 class="text1">Nama </h1>
+        <p class="text2"> Alifiah Nabila</p>
+        <h1 class="text1"> Tempat Tanggal lahir</h2>
+        <p class="text2">Bandat Lampung, 23 April 2003</p>
+        <h1 class="text1">Hobi</h1>
+        <ul class="text1">
+            <li class="text2">Golf</li>
+            <li class="text2">Billiard</li>
+            <li class="text2">Mendengarkan Musik</li>
+        </ul>
+        <h1 class="text1">Zodiak</h1>
+        <p class="text2"> Taurus</p>
+        <h1 class="text1">Contact</h1>
+        <ul>
+            <li class="text2">whatsapp (0895701310233)</li>
+            <li>
+                <a class="text2" href="https://www.linkedin.com/in/alifiah-nabila-994862216">LinkedIn <i class="text2"></i></a>
+            </li>
+        </ul>
+
+    </div>
+</body>
+
+</html>
